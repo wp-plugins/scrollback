@@ -2,7 +2,7 @@
 /*
 Plugin Name: Scrollback
 Plugin URI: http://www.scrollback.io
-Description: Inserts a Scrollback ChatStream to every page of the site.
+Description: Scrollback chat for your website and blog.
 Author: Askabt Pte Ltd
 Version: 0.3
 Author URI: http://scrollback.io
