@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Scrollback
+Plugin Name: Scrollback Chat
 Plugin URI: http://www.scrollback.io
 Description: Scrollback chat for your website and blog.
 Author: Askabt Pte Ltd
