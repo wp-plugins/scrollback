@@ -1,4 +1,4 @@
-=== Scrollback ===
+=== Scrollback Chat ===
 Contributors: scrollback
 Tags: messaging, online communities, irc, chat
 Requires at least: 3.0
